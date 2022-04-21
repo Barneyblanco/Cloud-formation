@@ -15,3 +15,6 @@ Resources:
       - !Ref "ARN"
     Principals:
       - !Ref "AccountId"
+
+      #aliceeeeeeeeeee
+      
